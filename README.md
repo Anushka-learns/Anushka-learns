@@ -7,8 +7,6 @@
 
 🧠 Machine Learning & AI
 
-🌐 Web Development (HTML, CSS, JavaScript)
-
 
 🔭 Current Focus
 
