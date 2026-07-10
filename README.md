@@ -1,31 +1,55 @@
-# 👋 Hi, I'm Anushka
+# Hi, I'm Anushka
 
-I'm a **B.Tech CSE (AI & ML) student** passionate about building intelligent systems and solving real-world problems using data and code.
+B.Tech Computer Science (AI & ML) student with interests in Artificial Intelligence, Machine Learning, Data Science, and Software Engineering. I enjoy building intelligent systems, developing end-to-end applications, and applying technology to solve real-world problems.
 
-## 🚀 Skills
+Currently exploring machine learning, generative AI, multi-agent systems, data-driven applications, and practical software development through projects, research, and continuous learning.
 
-* 💻 Python, NumPy, Pandas
-* ☕ Java (Data Structures & Algorithms)
-* 🤖 Machine Learning & AI
-* 📊 Data Analysis & Visualization
+## Technical Skills
 
-## 🔭 What I'm Currently Working On
+### Programming Languages
+- Python
+- Java
 
-* Mastering **NumPy & Pandas** for advanced data manipulation
-* Building **AI-powered projects**
-* Strengthening **DSA in Java** for internships
-* Exploring **freelance and internship opportunities in AI & ML**
+### Artificial Intelligence & Machine Learning
+- Machine Learning
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent Systems
+- LLM Applications
+- Data Analysis
+- Data Visualization
 
-## 💡 My Mindset
+### Libraries & Frameworks
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- Keras
+- Flask
 
-> *"Code is not just syntax — it's a solution to someone's problem."*
+### Databases & Tools
+- MySQL
+- Git
+- GitHub
+- ChromaDB
 
-## 📌 Featured Interests
+### Development & Deployment
+- REST APIs
+- Web Application Development
+- Model Deployment
+- Railway
 
-* AI + Software Engineering
-* Data Science Projects
-* Real-world AI applications
+## Current Focus
 
+- Building AI-powered and data-driven applications
+- Research in multi-agent reasoning and memory systems
+- Exploring Generative AI and LLM-based architectures
+- Strengthening Data Structures & Algorithms
+- Expanding software engineering and system design skills
+
+## Connect
+
+Open to collaborating on projects, research opportunities, internships, and discussions related to AI, Machine Learning, Data Science, and Software Development.
 ## 📫 Let's Connect
 
 * LinkedIn: [www.linkedin.com/in/anushka-srivastava-16a88631a](http://www.linkedin.com/in/anushka-srivastava-16a88631a)
